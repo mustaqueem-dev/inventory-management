@@ -1,0 +1,26 @@
+[
+  {
+    "id": "prod_001",
+    "name": "Wireless Mouse",
+    "category": "Electronics",
+    "price": 799,
+    "quantity": 20,
+    "minStock": 5
+  },
+  {
+    "id": "prod_002",
+    "name": "Keyboard",
+    "category": "Electronics",
+    "price": 1299,
+    "quantity": 12,
+    "minStock": 3
+  },
+  {
+    "id": "prod_003",
+    "name": "USB Cable",
+    "category": "Accessories",
+    "price": 199,
+    "quantity": 20,
+    "minStock": 5
+  }
+]
