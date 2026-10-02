@@ -1,0 +1,10 @@
+[
+  {
+    "id": "prod_001",
+    "name": "Keyboard",
+    "category": "Electronics",
+    "price": 1000,
+    "quantity": 5,
+    "minStock": 2
+  }
+]

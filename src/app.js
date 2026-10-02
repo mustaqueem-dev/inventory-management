@@ -60,7 +60,11 @@ async function main() {
   }
 }
 
-main().catch(handleError)
+// main().catch(handleError)
+main().catch((error) => {
+  handleError(error);
+  process.exitCode = 1;
+})
 
 async function handleAdd(options) {
   const product = await createProductController({
